@@ -1,5 +1,5 @@
 {
-  "name": "tim-baker-personal-web",
+  "name": "wilds-rincon-personal-web",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,17 +14,5 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  },
-  "description": "![ReactJS Resume Website](readme.jpg?raw=true \"ReactJS Resume Website\") ### <a href=\"http://timbakerdev.com/\">Check It Out Here</a>",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/wildcox80/react-portfolio.git"
-  },
-  "author": "Wilds Rincon",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/wildcox80/react-portfolio/issues"
-  },
-  "homepage": "https://github.com/wildcox80/react-portfolio#readme"
+  }
 }
