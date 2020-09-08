@@ -88,7 +88,7 @@
       },
       {
         "name":"Javascript",
-        "description":"Javascript was my first programming language that I started using in college years ago. It is by far the language I am most familiar with in terms of data-structure and algorithm programming.",
+        "description":"Javascript was my first programming language that I started using in college years ago. I am most familiar with in terms of data-structure and algorithm programming.",
         "image":"js.jpg"
       },
       {
@@ -114,7 +114,7 @@
       },
       {
         "name":"MongoDB",
-        "description":"I have used many different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work.",
+        "description":"I am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work.",
         "image":"mongo.jpg"
       },
       {
