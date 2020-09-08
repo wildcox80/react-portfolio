@@ -3,7 +3,7 @@
     "name":"Wilds Rincon",
     "occupation":"React Developer && Fullstack Javascript Developer",
     "description":" Full Stack React Developer by Day, Founder && Freelancer by Night. #WRStudioWeb",    
-    "image":"profile_pic.jpg",
+    "image":"perfil_redes.jpg",
     "bio":"I am an Javascript Entusiast, with an entrepreneurial spirit, a knack for frontend development, and a passion for coding. I am currently working towards my Certified AWS certifications while working as a full stack developer and software developer.",
     "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
     "email": "wildsrincon.developer@gmail.com",
@@ -99,7 +99,7 @@
       {
         "name":"Angular",
         "description":"I enjoy Angular for it's ease of configuration and its ability to get a full stack prototype up and running quickly. I used Angular in a my projects more complexes",
-        "image":"meteor.jpg"
+        "image":"angular.jpg"
       },
 
       {
@@ -135,7 +135,7 @@
       {
         "name":"Docker",
         "description":"I have used Docker to deliver software in packages called containers. Containers are isolated from one another and bundle their own software, libraries and configuration files.",
-        "image":"docker.jpg"
+        "image":"dockerhero.jpg"
       },
       {
         "name":"AWS",
@@ -147,34 +147,28 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Adopt-Me",
+        "category":"React App for service animal adoption consume API",
+        "image":"adoptme.jpg",
+        "url":"https://adopt-me-wr.vercel.app/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Weather App",
+        "category":"Angular App for weather forecast API Open Weather",
+        "image":"weather_app.jpg",
+        "url":"https://weather-app-66cf5.web.app/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "title":"Robofriends",
+        "category":"React App search robots consume API robohash",
         "image":"original-thai-food.jpg",
-        "url":"https://original-thai-food.herokuapp.com/index.html"
+        "url":"https://robofriends-wr.netlify.app/"
       },
       {
         "title":"Resume Website",
         "category":"A React based resume website template",
         "image":"resume-website.jpg",
         "url":"https://github.com/tbakerx/react-resume-template"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
       }
     ]
   },
@@ -182,7 +176,7 @@
     "testimonials":[
       {
         "text":"I have had the opportunity to work with Tim on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Tim excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
-        "user":"Alastair Beaumont - Web Developer at AppColony"
+        "user":"Anderson Lopez - IOS Developer at BairesDev"
       }
     ]
   }
