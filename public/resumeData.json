@@ -89,7 +89,7 @@
       {
         "name":"Javascript",
         "description":"Javascript was my first programming language that I started using in college years ago. It is by far the language I am most familiar with in terms of data-structure and algorithm programming.",
-        "image":"javascript.jpg"
+        "image":"js.jpg"
       },
       {
         "name":"React Js",
@@ -99,7 +99,7 @@
       {
         "name":"Angular",
         "description":"I enjoy Angular for it's ease of configuration and its ability to get a full stack prototype up and running quickly. I used Angular in a my projects more complexes",
-        "image":"angular.jpg"
+        "image":"angular.png"
       },
 
       {
@@ -125,12 +125,12 @@
       {
         "name":"Firebase",
         "description":"I use Firebase as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
-        "image":"firebase.jpg"
+        "image":"firebase.png"
       },
       {
         "name":"Netlify",
         "description":"I use Netlify as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for fast deployment projects.",
-        "image":"netlify.jpg"
+        "image":"netlify.png"
       },
       {
         "name":"Docker",
@@ -140,7 +140,7 @@
       {
         "name":"AWS",
         "description":"I have used many different services offering for this platform for differents projects, is one of my favorite places, to specialize in the field of devops and cloud ",
-        "image":"aws.jpg"
+        "image":"aws.png"
       }
     ]
   },
@@ -149,7 +149,7 @@
       {
         "title":"Adopt-Me",
         "category":"React App for service animal adoption consume API",
-        "image":"adoptme.jpg",
+        "image":"adoptme.png",
         "url":"https://adopt-me-wr.vercel.app/"
       },
       {
@@ -161,14 +161,14 @@
       {
         "title":"Robofriends",
         "category":"React App search robots consume API robohash",
-        "image":"original-thai-food.jpg",
+        "image":"robofriends.png",
         "url":"https://robofriends-wr.netlify.app/"
       },
       {
         "title":"Resume Website",
         "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"https://github.com/tbakerx/react-resume-template"
+        "image":"react_portfolio.png",
+        "url":"https://wildsrincon.netlify.app"
       }
     ]
   },
