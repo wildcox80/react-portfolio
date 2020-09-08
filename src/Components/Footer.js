@@ -20,7 +20,7 @@ class Footer extends Component {
 
            <ul className="copyright">
               <li>&copy; Copyright 2017 <a title="Wilds Rincon" href="http://www.wildsrincon.tech/">Wilds Rincon</a></li>
-              <li>Design by <a title="Styleshout" href="#">WR Studio Web</a></li>
+              <li>Design by <a title="Styleshout" href="http://www.wildsrincon.tech/">WR Studio Web</a></li>
            </ul>
 
         </div>
