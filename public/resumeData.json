@@ -121,7 +121,28 @@
         "name":"MySql",
         "description":"I have used many different database systems and am better educated and experienced with Relational Databases.",
         "image":"mysql.jpg"
-      }      
+      },
+      {
+          "name":"Firebase",
+          "description":"I use Firebase as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
+          "image":"firebase.png"
+        },
+        {
+          "name":"Netlify",
+          "description":"I use Netlify as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for fast deployment projects.",
+          "image":"netlify.png"
+        },
+        {
+          "name":"Docker",
+          "description":"I have used Docker to deliver software in packages called containers. Containers are isolated from one another and bundle their own software, libraries and configuration files.",
+          "image":"dockerhero.jpg"
+        },
+        {
+          "name":"AWS",
+          "description":"I have used many different services offering for this platform for differents projects, is one of my favorite places, to specialize in the field of devops and cloud ",
+          "image":"aws.png"
+        }
+        
     ]
   },
   "portfolio":{
