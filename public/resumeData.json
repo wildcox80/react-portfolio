@@ -109,12 +109,12 @@
       },
       {
         "name":"Bootstrap 4",
-        "description":"I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others.",
+        "description":"I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore designs.",
         "image":"bootstrap.jpg"
       },
       {
         "name":"MongoDB",
-        "description":"I am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work.",
+        "description":"I am better educated and experienced with Relational Databases. The easy of use of MongoDB better suits my needs and it is much more enjoyable to work.",
         "image":"mongo.jpg"
       },
       {
@@ -124,12 +124,12 @@
       },
       {
           "name":"Firebase",
-          "description":"I use Firebase as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
+          "description":"I use Firebase as my hosting platform for most of my some projects. I also appreciate its integration with Github for such simple deployment.",
           "image":"firebase.png"
         },
         {
           "name":"Netlify",
-          "description":"I use Netlify as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for fast deployment projects.",
+          "description":"I use Netlify as my hosting platform for most of my projects I also appreciate its integration with Github for fast deployment projects.",
           "image":"netlify.png"
         },
         {
