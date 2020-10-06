@@ -1,163 +1,156 @@
 {
-  "main": {
-    "name":"Wilds Rincon",
-    "occupation":"Fullstack Software Developer",
-    "description":" Fullstack Javascript Developer by Day, Founder && Freelancer by Night. #WRStudioWeb",    
-    "image":"perfil_redes.jpg",
-    "bio":"Hi! I'm Wilds Rincon, Full Stack Software Developer working that focuses on frontend frameworks such as React and Angular, working as SSR with Node JS and Next JS. Actually I'm studing Software Engineer at Holberton School. I passionate in web development with more than 5 years of developing websites and web apps, I have a passion for Devops, web accesability and serverless technologies. To grow my skills I focus on building a JAM stack projects.",
-    "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
-    "email": "wildsrincon.developer@gmail.com",
-    "phone": "+57 304 476 64 19",
-    "address":{
-      "street":"Calle 15 # 9-36",
-      "city":"La Dorada",
-      "state":"Caldas",
-      "zip": "175031"
+    "main": {
+        "name": "Wilds Rincon",
+        "occupation": "Fullstack Software Developer",
+        "description": " Fullstack Javascript Developer by Day, Founder && Freelancer by Night. #WRStudioWeb",
+        "image": "perfil_redes.jpg",
+        "bio": "Hi! I'm Wilds Rincon, Full Stack Software Developer working that focuses on frontend frameworks such as React and Angular, working as SSR with Node JS and Next JS. Actually I'm studing Software Engineer at Holberton School. I passionate in web development with more than 5 years of developing websites and web apps, I have a passion for Devops, web accesability and serverless technologies. To grow my skills I focus on building a JAM stack projects.",
+        "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+        "email": "wildsrincon.developer@gmail.com",
+        "phone": "+57 304 476 64 19",
+        "address": {
+            "street": "Calle 15 # 9-36",
+            "city": "La Dorada",
+            "state": "Caldas",
+            "zip": "175031"
+        },
+        "website": "https://www.wildsrincon.tech",
+        "resumedownload": "https://rxresu.me/r/w9w8lv",
+        "social": [{
+                "name": "facebook",
+                "url": "http://facebook.com/wrstudioweb",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/wildsrincon/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "http://instagram.com/wildsrincon",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "twitter",
+                "url": "https://twitter.com/wildsrincon",
+                "className": "fa fa-twitter"
+            },
+            {
+                "name": "github",
+                "url": "http://github.com/wildcox80",
+                "className": "fa fa-github"
+            }
+        ]
     },
-    "website": "https://www.wildsrincon.tech",
-    "resumedownload":"https://rxresu.me/r/w9w8lv",
-    "social":[
-      {
-        "name":"facebook",
-        "url":"http://facebook.com/wrstudioweb",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/wildsrincon/",
-        "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/wildsrincon",
-        "className":"fa fa-instagram"
-      },
-      {
-        "name":"twitter",
-        "url":"https://twitter.com/wildsrincon",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"github",
-        "url":"http://github.com/wildcox80",
-        "className":"fa fa-github"
-      }
-    ]
-  },
-  "resume":{
-    "skillmessage":"I'm a Software Engineer Student and am always interested in playing around with new technologies but these are the ones that have really won me over",
-    "education":[
-      {
-        "school":"Holberton School",
-        "degree":" Software Engineer",
-        "graduated":"Expected Nov 2020",
-        "description":"Software Engineering Specialty and achieved a much more thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for scalable application programming (web and mobile), the security behind computer and application systems, and found that I have a knack for understanding complex algorithms."
-      },
-      {
-        "school":"SENA",
-        "degree":"Networks Administration Technology",
-        "graduated":"June 2006",
-        "description":"Acquired skills in configuring active network equipment, general data networking topics and computer network administration"
-      }
-    ],
-    "work":[
-      {
-        "company":"Frontend Developer Freelance",
-        "title": "Freelancer",
-        "years": "August 2013 - Present",
-        "description": "I have worked as a Full Stack Web Developer. Here I have had the chance to dig in and get my hands dirty with all parts of our software. I have worked with our legacy diferents new technologies, as well as built new node-based servers for new products. As well, I have worked extensively with React/Redux as well as with react hooks."
-      },
-      {
-        "company":"SIO & Solutemp",
-        "title":"Webmaster and Technical Support",
-        "years":"August 2017 - November 2017",
-        "description":"Work as webmaster of the company's institutional portal, in addition to providing technical support to the requirements that were presented."
-      },
-      {
-        "company":"Safe SAS",
-        "title":"Frontend Developer",
-        "years":"January 2016 - December 2016",
-        "description":"Web site, web-apps and mobile application development, management and support of websites (Content Managers, Availability of portals), customer support."
-      }
-    ],
-    "skills":[
-      {
-        "name":"Git",
-        "description":"I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
-        "image":"git.jpg"
-      },
-      {
-        "name":"Javascript",
-        "description":"Javascript was my first programming language that I started using in college years ago. I am most familiar with in terms of data-structure and algorithm programming.",
-        "image":"js.jpg"
-      },
-      {
-        "name":"React Js",
-        "description":"I am fairly new to React and really did not like it at first. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site.",
-        "image":"react.jpg"
-      },
-      {
-        "name":"Angular",
-        "description":"I enjoy Angular for it's ease of configuration and its ability to get a full stack prototype up and running quickly. I used Angular in a my projects more complexes",
-        "image":"angular.png"
-      },
+    "resume": {
+        "skillmessage": "I'm a Full Stack Software Developer Student and am always interested in playing around with new technologies but these are the ones that have really won me over",
+        "education": [{
+                "school": "Holberton School",
+                "degree": " Full Stack Software Developer",
+                "graduated": "Expected Nov 2020",
+                "description": "Software Engineering Specialty and achieved a much more thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for scalable application programming (web and mobile), the security behind computer and application systems, and found that I have a knack for understanding complex algorithms."
+            },
+            {
+                "school": "SENA",
+                "degree": "Networks Administration Technology",
+                "graduated": "June 2006",
+                "description": "Acquired skills in configuring active network equipment, general data networking topics and computer network administration"
+            }
+        ],
+        "work": [{
+                "company": "Frontend Developer Freelance",
+                "title": "Freelancer",
+                "years": "August 2013 - Present",
+                "description": "I have worked as a Full Stack Web Developer. Here I have had the chance to dig in and get my hands dirty with all parts of our software. I have worked with our legacy diferents new technologies, as well as built new node-based servers for new products. As well, I have worked extensively with React/Redux as well as with react hooks."
+            },
+            {
+                "company": "SIO & Solutemp",
+                "title": "Webmaster and Technical Support",
+                "years": "August 2017 - November 2017",
+                "description": "Work as webmaster of the company's institutional portal, in addition to providing technical support to the requirements that were presented."
+            },
+            {
+                "company": "Safe SAS",
+                "title": "Frontend Developer",
+                "years": "January 2016 - December 2016",
+                "description": "Web site, web-apps and mobile application development, management and support of websites (Content Managers, Availability of portals), customer support."
+            }
+        ],
+        "skills": [{
+                "name": "Git",
+                "description": "I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
+                "image": "git.jpg"
+            },
+            {
+                "name": "Javascript",
+                "description": "Javascript was my first programming language that I started using in college years ago. I am most familiar with in terms of data-structure and algorithm programming.",
+                "image": "js.jpg"
+            },
+            {
+                "name": "React Js",
+                "description": "I am fairly new to React and really did not like it at first. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site.",
+                "image": "react.jpg"
+            },
+            {
+                "name": "Angular",
+                "description": "I enjoy Angular for it's ease of configuration and its ability to get a full stack prototype up and running quickly. I used Angular in a my projects more complexes",
+                "image": "angular.png"
+            },
 
-      {
-        "name":"Node JS",
-        "description":"Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MERN and MEAN based projects",
-        "image":"node.jpg"
-      },
-      {
-        "name":"Bootstrap 4",
-        "description":"I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore designs.",
-        "image":"bootstrap.jpg"
-      },
-      {
-        "name":"MongoDB",
-        "description":"I am better educated and experienced with Relational Databases. The easy of use of MongoDB better suits my needs and it is much more enjoyable to work.",
-        "image":"mongo.jpg"
-      },
-      {
-        "name":"MySql",
-        "description":"I have used many different database systems and am better educated and experienced with Relational Databases.",
-        "image":"mysql.jpg"
-      }          
-    ]
-  },
-  "portfolio":{
-    "projects": [
-      {
-        "title":"Adopt-Me",
-        "category":"React App for service animal adoption consume API",
-        "image":"adoptme.png",
-        "url":"https://adopt-me-wr.vercel.app/"
-      },
-      {
-        "title":"Weather App",
-        "category":"Angular App for weather forecast API Open Weather",
-        "image":"weather_app.jpg",
-        "url":"https://weather-app-66cf5.web.app/"
-      },
-      {
-        "title":"Robofriends",
-        "category":"React App search robots consume API robohash",
-        "image":"robofriends.png",
-        "url":"https://robofriends-wr.netlify.app/"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"react_portfolio.png",
-        "url":"https://wildsrincon.netlify.app"
-      }
-    ]
-  },
-  "testimonials":{
-    "testimonials":[
-      {
-        "text":"I have had the opportunity to work with Wilder on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Wilder excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
-        "user":"Anderson Lopez - IOS Developer at BairesDev"
-      }
-    ]
-  }
+            {
+                "name": "Node JS",
+                "description": "Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MERN and MEAN based projects",
+                "image": "node.jpg"
+            },
+            {
+                "name": "Bootstrap 4",
+                "description": "I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore designs.",
+                "image": "bootstrap.jpg"
+            },
+            {
+                "name": "MongoDB",
+                "description": "I am better educated and experienced with Relational Databases. The easy of use of MongoDB better suits my needs and it is much more enjoyable to work.",
+                "image": "mongo.jpg"
+            },
+            {
+                "name": "MySql",
+                "description": "I have used many different database systems and am better educated and experienced with Relational Databases.",
+                "image": "mysql.jpg"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [{
+                "title": "Adopt-Me",
+                "category": "React App for service animal adoption consume API",
+                "image": "adoptme.png",
+                "url": "https://adopt-me-wr.vercel.app/"
+            },
+            {
+                "title": "Weather App",
+                "category": "Angular App for weather forecast API Open Weather",
+                "image": "weather_app.jpg",
+                "url": "https://weather-app-66cf5.web.app/"
+            },
+            {
+                "title": "Robofriends",
+                "category": "React App search robots consume API robohash",
+                "image": "robofriends.png",
+                "url": "https://robofriends-wr.netlify.app/"
+            },
+            {
+                "title": "Resume Website",
+                "category": "A React based resume website template",
+                "image": "react_portfolio.png",
+                "url": "https://wildsrincon.netlify.app"
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [{
+            "text": "I have had the opportunity to work with Wilder on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Wilder excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
+            "user": "Anderson Lopez - IOS Developer at BairesDev"
+        }]
+    }
 }
