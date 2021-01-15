@@ -14,7 +14,7 @@
             "state": "Caldas",
             "zip": "175031"
         },
-        "website": "https://www.wildsrincon.tech",
+        "website": "https://www.wildsrincon.netlify.app",
         "resumedownload": "https://rxresu.me/r/w9w8lv",
         "social": [{
                 "name": "facebook",
@@ -38,7 +38,7 @@
             },
             {
                 "name": "github",
-                "url": "http://github.com/wildcox80",
+                "url": "http://github.com/wildsrincon,
                 "className": "fa fa-github"
             }
         ]
