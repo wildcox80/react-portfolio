@@ -9,10 +9,10 @@
         "email": "wildsrincon.developer@gmail.com",
         "phone": "+57 304 476 64 19",
         "address": {
-            "street": "Calle 15 # 9-36",
-            "city": "La Dorada",
-            "state": "Caldas",
-            "zip": "175031"
+            "street": "Calle 68E # 19-32",
+            "city": "Barranquilla",
+            "state": "Atlantico",
+            "zip": "008006"
         },
         "website": "https://www.wildsrincon.netlify.app",
         "resumedownload": "https://rxresu.me/r/w9w8lv",
@@ -48,7 +48,7 @@
         "education": [{
                 "school": "Holberton School",
                 "degree": " Full Stack Software Developer",
-                "graduated": "Expected Nov 2020",
+                "graduated": "Nov 2020",
                 "description": "Software Engineering Specialty and achieved a much more thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for scalable application programming (web and mobile), the security behind computer and application systems, and found that I have a knack for understanding complex algorithms."
             },
             {
@@ -59,6 +59,13 @@
             }
         ],
         "work": [{
+                "company": "Sempli",
+                "title": "Fullstack Software Developer",
+                "years": "September 2020 - November 2020",
+                "description": "Tropicode Team Capstone project to develop a first solution approach in Machine Learning to Sempli company. **Experience: data cleaning/treatment with Anaconda and Python, landing page layout design, and practicing infrastructure deployment as code with SAM aws services."
+
+            },
+            {
                 "company": "Frontend Developer Freelance",
                 "title": "Freelancer",
                 "years": "August 2013 - Present",
@@ -122,6 +129,12 @@
     },
     "portfolio": {
         "projects": [{
+                "title": "Github Battle",
+                "category": "React App for fight github profile and consume github API",
+                "image": "github_battle.png",
+                "url": "https://github-battle-wr.netlify.app/"
+            },
+            {
                 "title": "Adopt-Me",
                 "category": "React App for service animal adoption consume API",
                 "image": "adoptme.png",
